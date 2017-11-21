@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1511218017 source:c:\users\stewart\documents\github\probable-octo-palm-tree\data\filehandling\segmentdata\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<stdexcept>
+

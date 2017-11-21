@@ -1,0 +1,16 @@
+event_date_terminated
+firm_fei_number
+openfda
+regulation_number
+fei_number
+device_name
+device_class
+medical_specialty_description
+registration_number
+res_event_number
+other_submission_description
+k_numbers
+product_res_number
+product_code
+root_cause_description
+pma_numbers
